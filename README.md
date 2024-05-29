@@ -22,3 +22,5 @@ SUIIIII
 ![image](https://github.com/Gocarss/software-engineering-version-control/assets/117557091/025f8aad-6b2f-4724-b117-a0def4e4f6cf)
 
 Ryan Marchi - 2602106433
+
+Stephen Hau - 2602108041
